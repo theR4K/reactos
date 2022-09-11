@@ -7,7 +7,7 @@
 #define COM_NO_WINDOWS_H
 
 #define COBJMACROS
-#define NONAMELESSUNION
+//#define NONAMELESSUNION
 
 #include "dinput_private.h"
 
